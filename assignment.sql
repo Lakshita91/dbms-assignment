@@ -1,12 +1,4 @@
-/*
-DBMS SQL ASSIGNMENTS — MySQL
-Prepared from the 20 questions in the supplied assignment sheet.
 
-How to use:
-1. Upload this file to your GitHub repository as assignment.sql.
-2. Run statements individually in MySQL.
-3. Questions that reference jobs/departments require those parent tables to exist first.
-*/
 
 -- Q1. Create a simple countries table.
 CREATE TABLE countries (
